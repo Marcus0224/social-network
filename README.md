@@ -1,9 +1,9 @@
 # social-network
 
 ## Table of Content 
-- [User Story](User Story)  
+- [User Story](UserStory)  
 - [Description](#description) 
-- [Video link](#Video link)
+- [Video link](#Videolink)
 - [Tools](Tools)
 
 ## User Story 
