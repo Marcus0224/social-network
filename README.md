@@ -1,19 +1,19 @@
 # social-network
 
 ## Table of Content 
-- [User Story](UserStory)  
+- [UserStory](#UserStory)  
 - [Description](#description) 
-- [Video link](#Videolink)
-- [Tools](Tools)
+- [Videolink](#Videolink)
+- [Tools](#Tools)
 
-## User Story 
+## UserStory 
 - AS A social meadia startup
 - I WANT an API for my social network that uses a NoSQL database
 - SO that my website can handle large amounts of unstructured data
 # Description
 An API for a scoial Network web applicatiob where users can share their thoughts, react to friend's thought, and create a friend list.
 
-## Video link
+## Videolink
 [Tutorial video](https://drive.google.com/file/d/1C3OeY13ZcD0GiWG1dmk2xVCeqASp-oUu/view)
 ## Tools
 
