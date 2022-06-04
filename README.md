@@ -1,10 +1,10 @@
 # social-network
 
 ## Table of Content 
-- User Story 
-- Description
-- Video link
-- Tools
+- [User Story](User Story)  
+- [Description](#description) 
+- [Video link](#Video link)
+- [Tools](Tools)
 
 ## User Story 
 - AS A social meadia startup
